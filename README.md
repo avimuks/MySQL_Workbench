@@ -8,4 +8,4 @@ DDL (Data Defination Language) and DML (Data Modificaiton Language) to query amo
 <em>Prerequisites</em>
 </P> 1. My SQL Workbench_Oracle - INSTALLED
 </p> 2. SQL Fundamentals Knowledge
-</P> 3. Git Hub 
+</P> 3. Git Hub Account
