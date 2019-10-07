@@ -38,21 +38,21 @@ DDL (Data Defination Language) and DML (Data Modificaiton Language) to query amo
 <b>1. MySQL Installation:</b> Install MySQL in your local machine from https://www.mysql.com/downloads/ 
 
 <p></p>
-<b>2. Server Connection Creation:</b>
+<b>2. Server Connection Creation:</b> After Downloading the required software package in your local system, you can create a Test Connection to your MySQL Server. Here I have used a Test Connection named 'AviMuks_Test'. Make sure to test the connection is working successfully and check the connection settings before going to the next step
 
 
 <p></p>
-<b>3. Sample Database Creation:</b>
+<b>3. Sample Database Creation within the Schema:</b> After creating the Test Connection, you can create a sample Database/Schema with the required Character Set in the Schema Editor. I have used the Database called "TestDB".
 
 
 <p></p>
-<b>4. Sample Schema Creation:</b>
+<b>4. Sample Table Creation within a Database:</b> You can Create sample tables from the create Table wizard within a Database. I have created 'Sample Employee_AM' Table from the create table wizard here under the "TestDB".
 
 
 <p></p>
-<b>5. Sample Table Creation:</b>
+<b>5. Import Table within a Database:</b> You can also import a .csv format file from your local machine for instance using the 'Table Data Import Wizard' under Tables in MySQL Workbench. I have imported the sample dowloaded file from the web 'uk bank customer.csv' & 'Traffic Violations.csv' as it is witihn within the "TestDB".
 
 
 <p></p>
-<b>5. Run Queries:</b>
+<b>6. Run Queries:</b> Once you have the Database setup, you can execute the queries to get the expected result and view them in the Output Pane.
 
