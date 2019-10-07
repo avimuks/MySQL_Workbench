@@ -21,7 +21,12 @@ DDL (Data Defination Language) and DML (Data Modificaiton Language) to query amo
 
 <b>Data Migration:</b> Allows you to migrate from Microsoft SQL Server, Microsoft Access, Sybase ASE, SQLite, SQL Anywhere, PostreSQL, and other RDBMS tables, objects and data to MySQL. Migration also supports migrating from earlier versions of MySQL to the latest releases.
 
-<b>MySQL Enterprise Support:</b> Support for Enterprise products such as MySQL Enterprise Backup, MySQL Firewall, and MySQL Audit.<b> Few Things Good To Know Things for MySQL Workbench 8.0:</b>
+<b>MySQL Enterprise Support:</b> Support for Enterprise products such as MySQL Enterprise Backup, MySQL Firewall, and MySQL Audit.
+
+<b>MySQL Workbench Editions</b>
+<em>Comminuty Edition</em>
+<em>Standar Edition</em>
+<em>Enterprise Edition</em>
 
 
 </p>
