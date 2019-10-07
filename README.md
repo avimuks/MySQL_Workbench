@@ -10,9 +10,11 @@ DDL (Data Defination Language) and DML (Data Modificaiton Language) to query amo
 <em>MySQL Workbench</em> is a graphical tool for working with MySQL servers and databases. MySQL Workbench fully supports MySQL server versions 5.5 and higher. Used here is MySQL Woekbench 8.0.
 
 
-<p></p>
-<b>MySQL Workbench functionality covers five main topics:</b>
 
+<b>MySQL Workbench functionality covers five main topics:</b>
+<p></p>
+
+<p></p>
 <b>SQL Development:</b> Enables you to create and manage connections to database servers. Along with enabling you to configure connection parameters, MySQL Workbench provides the capability to execute SQL queries on the database connections using the built-in SQL Editor.
 
 <b>Data Modeling (Design):</b> Enables you to create models of your database schema graphically, reverse and forward engineer between a schema and a live database, and edit all aspects of your database using the comprehensive Table Editor. The Table Editor provides easy-to-use facilities for editing Tables, Columns, Indexes, Triggers, Partitioning, Options, Inserts and Privileges, Routines and Views.
