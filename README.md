@@ -24,9 +24,9 @@ DDL (Data Defination Language) and DML (Data Modificaiton Language) to query amo
 <b>MySQL Enterprise Support:</b> Support for Enterprise products such as MySQL Enterprise Backup, MySQL Firewall, and MySQL Audit.
 
 <b>MySQL Workbench Editions</b>
-<em>Comminuty Edition</em>
-<em>Standar Edition</em>
-<em>Enterprise Edition</em>
+<p><em>Comminuty Edition</em>
+<p><em>Standard Edition</em>
+<p><em>Enterprise Edition</em>
 
 
 </p>
