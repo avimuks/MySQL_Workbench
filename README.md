@@ -7,10 +7,9 @@ DDL (Data Defination Language) and DML (Data Modificaiton Language) to query amo
 </P>
 <b>Overview</b>
 <p>
-<em>MySQL Workbench</em> is a graphical tool for working with MySQL servers and databases. MySQL Workbench fully supports MySQL server versions 5.5 and higher.
+<em>MySQL Workbench</em> is a graphical tool for working with MySQL servers and databases. MySQL Workbench fully supports MySQL server versions 5.5 and higher. Used here is MySQL Woekbench 8.0.
 
 
-<p></p>
 <p></p>
 <b>MySQL Workbench functionality covers five main topics:</b>
 
