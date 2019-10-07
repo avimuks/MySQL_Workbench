@@ -29,7 +29,7 @@ DDL (Data Defination Language) and DML (Data Modificaiton Language) to query amo
 <p><em>Enterprise Edition</em>
 
 
-</p>
+<P></P>
 <b>SCOPE - Getting Started using MySQL Workbench 8.0:</b>
 <p></p>
 
